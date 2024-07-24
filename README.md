@@ -1,4 +1,3 @@
-# Election-data-analysis
 
 # Election Data Analysis: Insights from 2014 and 2019 
   This repository contains the code and analysis for a project presented to AtliQ Media. The project aims to provide unbiased insights from the 2014 and 2019 Lok Sabha elections in India, focusing on less explored themes like voter turnout percentage. This analysis was conducted as part of the Resume Project challenge 11 of Code Basics.
